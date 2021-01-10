@@ -1,0 +1,13 @@
+.navbar {
+    position: absolute;
+    top: 145px;
+
+}
+
+.nav-link {
+    text-align: center;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
