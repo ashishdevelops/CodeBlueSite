@@ -1,7 +1,8 @@
 .navbar {
-    position: absolute;
-    top: 145px;
+    /*position: absolute;
+    top: 145px; */
 
+    margin-top: 0px;
 }
 
 .nav-link {
@@ -11,3 +12,4 @@
     margin-right: 10px;
     font-weight: bold;
 }
+
