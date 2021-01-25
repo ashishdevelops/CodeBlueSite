@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid blue !important;
+    width: 20%;
+    display: inline-block;
+    border-bottom-left-radius: 5% !important;
+    border-bottom-right-radius: 5% !important;
+    margin-bottom: 2%;
+    
+}
+
+.card-title, .card-text {
+    text-align: center;
+}
+
+.card-button {
+    margin: 0 auto;
+}

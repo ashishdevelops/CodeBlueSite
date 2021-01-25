@@ -1,0 +1,52 @@
+.quotation {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.quotation h3 {
+    width: 100%;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.quotation h4 {
+    font-style: italic;
+    color: rgb(20, 85, 160);
+    font-size: 2rem;
+    text-align: center;
+}
+
+.homepage{
+    padding-top:3%;
+}
+
+.event_section {
+    margin: auto;
+    margin-top: 5%;
+    width: 80%;
+}
+
+.card_drawer {
+    float: left;
+    width: 30%;
+}
+
+
+
+.google-calendar-drawer {  
+    float: right;
+    width: 60%;
+    margin-left: 10%;
+    border: 1px solid black;
+
+}
+
+.calendar {
+    width: 100%;
+}
+
+
+
+
