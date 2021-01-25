@@ -1,9 +1,8 @@
 
-import Background from './components/Background'
-import Logo from './components/Logo'
-import Navbar from './components/Navbar'
-import HomePage from './components/HomePage'
-
+import Background from './components/Background/Background'
+import Logo from './components/Background/Logo'
+import Navbar from './components/Navigation/Navbar'
+import Home from './components/Home/Home'
 import './App.css';
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
       <Background /> 
       <Logo />      
       <Navbar />
-      <HomePage />
+      <Home />
     </div>
   );
 }
